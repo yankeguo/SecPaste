@@ -1,6 +1,6 @@
 # SecPaste
 
-[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hjmegjdmmkilfoioflgliccajbbkbfma)](https://chromewebstore.google.com/detail/altclipboard/hjmegjdmmkilfoioflgliccajbbkbfma)
+[![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/hjmegjdmmkilfoioflgliccajbbkbfma)](https://chromewebstore.google.com/detail/secpaste/hjmegjdmmkilfoioflgliccajbbkbfma)
 
 ![Screenshot](screenshot.jpg)
 
